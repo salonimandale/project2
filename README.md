@@ -13,3 +13,5 @@ This project was created using VS Code and pushed to GitHub.
 
 ## How to run
 Open `index.html` in any browser.
+
+saloni mandale
